@@ -147,6 +147,7 @@ The following scenarios are currently shipped with the simulator:
      rbac-shoot-and-scoot
      secret-high-ground
      secret-tank-desant
+     oteemo-custom
 </pre>
 
 But you can write your own and we really welcome any contributions of new scenarios :)

@@ -1,0 +1,9 @@
+Scenario: You are a new employee at XYZ Corp and are tasked with setting up Wordpress in Kubernetes.
+
+Starting Point: Development workstation.
+
+Difficulty: Easy
+
+Task 1: Setup a postgres installation in Kubernetes
+Task 2: Setup a wordpress front end.
+

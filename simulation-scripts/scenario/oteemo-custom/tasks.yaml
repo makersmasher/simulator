@@ -1,0 +1,16 @@
+category: Container
+difficulty: Easy
+kind: cp.simulator/scenario:1.0.0
+objective: Setup Wordpress.
+tasks:
+  "1":
+    hints:
+    - penalty: 10
+      text: How do you launch a new service in k8?
+    sortOrder: 1
+    startingPoint:
+      mode: pod
+      podName: oteemo-custom
+      podNamespace: oteemo-custom
+    summary: kubectl apply -f ./
+name: oteemo-custom
